@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi 👋 I am Lucas Galarce, Full Stack Javascript Developer
 
-<!--
-**lucasgalarce/lucasgalarce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about web development. Specially with Javascaript. I always seek to continue learning. I'm interested in Blockchain.
 
-Here are some ideas to get you started:
+  ## You can find me in these Places:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linkedin 🔗 : https://www.linkedin.com/in/galarce-lucas/ ;
+    
+- E-Mail 📧: galarcelucas@gmail.com ;
+  
+## These are the technologies that I manage at the moment: 
+
+  - ![Javascript](https://img.shields.io/badge/-Javascript-yellow)
+  - ![Typescript](https://img.shields.io/badge/-Typescript-green)
+  - ![Node](https://img.shields.io/badge/-Node-green)
+  - ![Express](https://img.shields.io/badge/-Express-blue)
+  - ![CSS](https://img.shields.io/badge/-CSS-yellowgreen)
+  - ![https://es.reactjs.org/](https://img.shields.io/badge/-React-blue)
+  - ![Postgres](https://img.shields.io/badge/-Postgres-green)
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey)
+  - ![Solidity](https://img.shields.io/badge/-Solidity-red)
