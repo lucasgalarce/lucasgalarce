@@ -1,6 +1,8 @@
 ### Hi 👋 I am Lucas Galarce, Full Stack Javascript Developer
 
-I am passionate about web development. Specially with Javascaript. I always seek to continue learning. I'm interested in Blockchain.
+I am a Programming Technician specialized in Fullstack JavaScript and able to handle various frameworks such as Express, React, and Vue, amongst others. I also am proficient with Solidity, I have comprehensive knowledge about cryptocurrency and blockchain and know how to combine mine skills to perform as an integral developer and bring a unique integral approach to projects.
+
+I found my passion through watching Youtube videos and holds a degree from the National Technological University of Buenos Aires. I am done various workshops to expand my programming abilities and wishes to keep growing along the technology and development fields. I have wide experience working with various languages for many successful projects.
 
   ## You can find me in these Places:
 
