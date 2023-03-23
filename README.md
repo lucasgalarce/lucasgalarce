@@ -12,4 +12,4 @@ I found my passion through watching Youtube videos and I hold a degree from the 
   
 ## These are the technologies that I manage at the moment: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongodb,html,css,vue,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,mongodb,html,css,vue,react,next,aws,docker,firebase,)](https://skillicons.dev)
