@@ -12,15 +12,4 @@ I found my passion through watching Youtube videos and I hold a degree from the 
   
 ## These are the technologies that I manage at the moment: 
 
-  - ![Javascript](https://img.shields.io/badge/-Javascript-yellow)
-  - ![Typescript](https://img.shields.io/badge/-Typescript-green)
-  - ![Node](https://img.shields.io/badge/-Node-green)
-  - ![Express](https://img.shields.io/badge/-Express-blue)
-  - ![CSS](https://img.shields.io/badge/-CSS-yellowgreen)
-  - ![VUE](https://img.shields.io/badge/-Vue-green)
-  - ![https://es.reactjs.org/](https://img.shields.io/badge/-React-blue)
-  - ![Postgres](https://img.shields.io/badge/-Postgres-green)
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey)
-  - ![Solidity](https://img.shields.io/badge/-Solidity-red)
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongodb,html,css,vue,react,next)](https://skillicons.dev)
