@@ -22,3 +22,5 @@ I found my passion through watching Youtube videos and I hold a degree from the 
   - ![Postgres](https://img.shields.io/badge/-Postgres-green)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey)
   - ![Solidity](https://img.shields.io/badge/-Solidity-red)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongodb,html,css,vue,react,next)](https://skillicons.dev)
